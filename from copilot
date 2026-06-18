@@ -1,0 +1,18 @@
+Ecommerce-Analytics-Project/
+│
+├── data/
+│   ├── orders.csv
+│   ├── customers.csv
+│   ├── products.csv
+│   └── returns.csv
+│
+├── excel/
+│   └── cleaned_data.xlsx
+│
+├── notebooks/
+│   └── ecommerce_analysis.ipynb
+│
+├── powerbi/
+│   └── Ecommerce_Dashboard.pbix
+│
+└── README.md
